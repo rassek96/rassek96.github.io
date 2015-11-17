@@ -1,0 +1,12 @@
+# Site settings
+title: Rasmus Karlsson
+description: > # this means to ignore newlines until "baseurl:"
+  This site is currently mainly for studying purposes and is where I will be
+  making regular (hopefully) blog posts about my studies. Might make some posts about football too when I feel the need to vent.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.fc.lnu.se/~rk222gg/index.html" # the base hostname & protocol for your site
+twitter_username: rassek96
+github_username:  rassek96
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,18 @@
+﻿Name: Rasmus Karlsson.
+
+                          
+Email: rassek96@gmail.com
+ 
+                           
+Twitter: rassek96.
+ 
+                         
+Location: Kalmar, Sweden.
+							
+                            
+SITE
+                            
+Site created: 2015/11/04 
+
+                     
+Software: Webstorm, Vagrant, VirtualBox, Jekyll, Node.
